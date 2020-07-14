@@ -1,4 +1,10 @@
-### Hi there 👋
+# Matheus Almeida
+[![Twitter Badge](https://img.shields.io/badge/-@mat_almeida-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mat_almeida)](https://twitter.com/mat_almeida)
+
+## What's up my friends 👋
+
+- 🔭 I’m currently working at @natahouse
+- ⚡ Fun fact: My first public PR that was merged is a one line update for the Reactjs team. [👀](https://github.com/reactjs/react-static-container/pull/6)
 
 <!--
 **matAlmeida/matAlmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
