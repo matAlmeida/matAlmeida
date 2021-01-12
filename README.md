@@ -6,6 +6,8 @@
 - 🔭 I’m working @ natahouse
 - ⚡ Fun fact: My first public PR that was merged is a one line update for the Reactjs team. [👀](https://github.com/reactjs/react-static-container/pull/6)
 
+![matAlmeida's github stats](https://github-readme-stats.vercel.app/api?username=matalmeida&count_private=true&show_icons=true)
+
 <!--
 **matAlmeida/matAlmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
