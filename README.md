@@ -1,12 +1,11 @@
 # Matheus Almeida
 [![Twitter Badge](https://img.shields.io/badge/-@mat_almeida-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mat_almeida)](https://twitter.com/mat_almeida)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-almeida-0504a4150/)](https://www.linkedin.com/in/matheus-almeida-0504a4150/)
 
 ## What's up my friends 👋
 
 - 🔭 I’m working @ natahouse
 - ⚡ Fun fact: My first public PR that was merged is a one line update for the Reactjs team. [👀](https://github.com/reactjs/react-static-container/pull/6)
-
-![matAlmeida's github stats](https://github-readme-stats.vercel.app/api?username=matalmeida&count_private=true&show_icons=true)
 
 <!--
 **matAlmeida/matAlmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
