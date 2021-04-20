@@ -1,5 +1,7 @@
 # Matheus Almeida
+<!--
 [![Twitter Badge](https://img.shields.io/badge/-@mat_almeida-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mat_almeida)](https://twitter.com/mat_almeida)
+-->
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-almeida-0504a4150/)](https://www.linkedin.com/in/matheus-almeida-0504a4150/)
 
 ## What's up my friends 👋
