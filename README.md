@@ -4,7 +4,7 @@
 -->
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-almeida-0504a4150/)](https://www.linkedin.com/in/matheus-almeida-0504a4150/)
 
-## What's up my friends 👋
+## What's up 👋
 
 - ⚡ Fun fact: My first public PR that was merged is a one line update for the Reactjs team. [👀](https://github.com/reactjs/react-static-container/pull/6)
 
