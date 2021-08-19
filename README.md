@@ -6,7 +6,6 @@
 
 ## What's up my friends 👋
 
-- 🔭 I’m working @ natahouse
 - ⚡ Fun fact: My first public PR that was merged is a one line update for the Reactjs team. [👀](https://github.com/reactjs/react-static-container/pull/6)
 
 <!--
