@@ -4,6 +4,22 @@
 -->
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-almeida-0504a4150/)](https://www.linkedin.com/in/matheus-almeida-0504a4150/)
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=matalmeida&layout=compact"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=matalmeida&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+    />
+  </a>
+</p>
+
 ## What's up 👋
 
 - ⚡ Fun fact: My first public PR that was merged is a one line update for the Reactjs team. [👀](https://github.com/reactjs/react-static-container/pull/6)
